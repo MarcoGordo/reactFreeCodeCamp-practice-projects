@@ -1,0 +1,21 @@
+*{
+  padding: 30px;
+}
+html , body{
+  background-color: cornflowerblue;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contenedor{
+  height: 550px;
+  width: 550px;
+  background-color: lightcoral;
+  border-radius: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+
+}

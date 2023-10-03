@@ -1,0 +1,10 @@
+.boton{
+    color: black;
+    height: 25px;
+    display:inline-block;
+    display: flex;
+    align-items: center;
+    font-family: monospace;
+    font-size: x-large;
+    font-weight: bold;
+}
